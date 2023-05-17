@@ -100,6 +100,69 @@ var ptx_lunr_docs = [
   "body": "  Solve counting problems that involve using multiple principles of counting   "
 },
 {
+  "id": "sec-probability-intro",
+  "level": "1",
+  "url": "sec-probability-intro.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Introduction to Probability",
+  "body": " Introduction to Probability   An introduction   "
+},
+{
+  "id": "sec-probability-multistage",
+  "level": "1",
+  "url": "sec-probability-multistage.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Multistage Experiments",
+  "body": " Multistage Experiments   An introduction   "
+},
+{
+  "id": "sec-probability-games",
+  "level": "1",
+  "url": "sec-probability-games.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Probability in Games",
+  "body": " Probability in Games   An introduction   "
+},
+{
+  "id": "sec-data-intro",
+  "level": "1",
+  "url": "sec-data-intro.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Introduction to Data and Statistics",
+  "body": " Introduction to Data and Statistics   An introduction   "
+},
+{
+  "id": "sec-data-collecting",
+  "level": "1",
+  "url": "sec-data-collecting.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Collecting Data",
+  "body": " Collecting Data   An introduction   "
+},
+{
+  "id": "sec-data-presenting",
+  "level": "1",
+  "url": "sec-data-presenting.html",
+  "type": "Section",
+  "number": "3.3",
+  "title": "Presenting Data",
+  "body": " Presenting Data   An introduction   "
+},
+{
+  "id": "sec-data-summarizing",
+  "level": "1",
+  "url": "sec-data-summarizing.html",
+  "type": "Section",
+  "number": "3.4",
+  "title": "Summarizing Data",
+  "body": " Summarizing Data   An introduction   "
+},
+{
   "id": "index-1",
   "level": "1",
   "url": "index-1.html",
