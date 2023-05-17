@@ -11,22 +11,14 @@
 <!-- "noncomerical share and share alike".  All trademarks are the         -->
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<xi:include href="./bookinfo.xml" />
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C-data">
 
+    <title>Data and Statistics</title>
 
-<book xml:id="math-10b">
-    <title>Math 10B</title>
-    <subtitle>Concepts in Math II</subtitle>
+    <xi:include  href="./sec-data-intro.xml" />
+    <xi:include  href="./sec-data-collecting.xml" />
+    <xi:include  href="./sec-data-presenting.xml" />
+    <xi:include  href="./sec-data-summarizing.xml" />
 
-    <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />
-    <xi:include href="./chap-probability.xml" />
-    <xi:include href="./chap-data.xml" />
-
-    <xi:include href="./backmatter.xml" />
-
-</book>
-
-</pretext>
+</chapter>
