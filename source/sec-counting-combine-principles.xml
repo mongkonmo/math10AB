@@ -11,20 +11,14 @@
 <!-- "noncomerical share and share alike".  All trademarks are the         -->
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<xi:include href="./bookinfo.xml" />
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-counting-combine-principles">
+    <title>Combining Principles of Counting</title>
 
+    <objectives>
+        <ul>
+            <li><p>Solve counting problems that involve using multiple principles of counting</p></li>
+        </ul>
+    </objectives>
 
-<book xml:id="math-10b">
-    <title>Math 10B</title>
-    <subtitle>Concepts in Math II</subtitle>
-
-    <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />
-
-    <xi:include href="./backmatter.xml" />
-
-</book>
-
-</pretext>
+</section>

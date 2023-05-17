@@ -1,0 +1,138 @@
+  <introduction>
+        <p>
+            It may seem silly at first to have an entire chapter dedicated to the topic of counting at this stage of your mathematical development. After all, how hard could it be? Let's consider a few "counting problems" to get a better sense of what may actually be involved in this seemingly simple task.
+        </p>
+
+        <problem xml:id="prob-count-by-enumerating">
+            <p>
+                How many squares are in the figure below?
+            </p>
+            <figure xml:id="fig-how-many-squares">
+                <caption>
+                    An arrangement of squares of various sizes.
+                </caption>
+                <image width="20%">
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \draw (0,0) rectangle (2,2);
+                            \draw (1,0) -- (1,2);
+                            \draw (0,1) -- (2,1);
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+            </figure>
+            <solution>
+                <p>
+                    Perhaps the most common approach to solving this problem is to count the squares by enumerating them as shown below.
+                </p>
+                <figure xml:id="fig-how-many-squares-soln">
+                    <caption>
+                        Enumerating the five squares in <xref ref="fig-how-many-squares">Figure</xref>
+                    </caption>
+                    <image width="50%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \draw (0,0) rectangle (2,2);
+                                \draw (1,0) -- (1,2);
+                                \draw (0,1) -- (2,1);
+                                \node at (0.5,1.5){\Large 1};
+                                \node at (1.5,1.5){\Large 2};
+                                \node at (0.5,0.5){\Large 3};
+                                \node at (1.5,0.5){\Large 4};
+
+                                \draw (3,0) rectangle (5,2);
+                                \node at (4,1){\Large 5};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </solution>
+        </problem>
+
+        <problem xml:id="prob-count-by-subitizing">
+            <p>
+                How many dots are in the figure below?
+            </p>
+            <figure xml:id="fig-how-many-dots">
+                <caption>
+                    An arrangement of dots.
+                </caption>
+                <image width="15%">
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \filldraw (0,0) circle (0.25);
+                            \filldraw (2,0) circle (0.25);
+                            \filldraw (0,2) circle (0.25);
+                            \filldraw (2,2) circle (0.25);
+                            \filldraw (1,1) circle (0.25);
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+            </figure>
+        </problem>
+
+        <problem xml:id="prob-count-by-multiplying">
+            <p>
+                Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?
+            </p>
+        </problem>
+
+
+
+
+
+        <investigation>
+            <introduction>
+                <p>
+                    Let's consider a few "counting problems" to get a better sense of what may actually be involved in this seemingly simple task.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        How many squares are in the figure below?
+                    </p>
+                    <figure xml:id="fig-how-many-squares">
+                        <caption>
+                            An arrangement of squares of various sizes.
+                        </caption>
+                        <image width="20%">
+                            <latex-image>
+                                \begin{tikzpicture}
+                                    \draw (0,0) rectangle (2,2);
+                                    \draw (1,0) -- (1,2);
+                                    \draw (0,1) -- (2,1);
+                                \end{tikzpicture}
+                            </latex-image>
+                        </image>
+                    </figure>
+                </statement>
+                <solution>
+                    <p>
+                        Perhaps the most common approach to solving this problem is to count the squares by enumerating them as shown below.
+                    </p>
+                    <figure xml:id="fig-how-many-squares-soln">
+                        <caption>
+                            Enumerating the five squares in <xref ref="fig-how-many-squares">Figure</xref>
+                        </caption>
+                        <image width="50%">
+                            <latex-image>
+                                \begin{tikzpicture}
+                                    \draw (0,0) rectangle (2,2);
+                                    \draw (1,0) -- (1,2);
+                                    \draw (0,1) -- (2,1);
+                                    \node at (0.5,1.5){\Large 1};
+                                    \node at (1.5,1.5){\Large 2};
+                                    \node at (0.5,0.5){\Large 3};
+                                    \node at (1.5,0.5){\Large 4};
+
+                                    \draw (3,0) rectangle (5,2);
+                                    \node at (4,1){\Large 5};
+                                \end{tikzpicture}
+                            </latex-image>
+                        </image>
+                    </figure>
+                </solution>
+            </task>
+        </investigation>
+

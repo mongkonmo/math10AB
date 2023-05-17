@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <docinfo>
+    <macros>
+      \newcommand{\R}{\mathbb R}
+    </macros>
+    <latex-image-preamble>
+      \usepackage{tikz}
+    </latex-image-preamble>
+  </docinfo>
+
+  <book xml:id="math-10b">
+    <title>Math 10B</title>
+    <subtitle>Concepts in Math II</subtitle>
+
+    <frontmatter xml:id="frontmatter">
+      <titlepage>
+        <author>
+          <personname>Mong Kon Mo</personname>
+          <department>Mathematics Department</department>
+          <institution>California State University, Fresno</institution>
+        </author>
+        <date>
+          <today />
+        </date>
+      </titlepage>
+
+      <colophon>
+
+        <website>
+          <name>
+            <c>example.org</c>
+          </name>
+          <address>https://example.org</address>
+        </website>
+
+        <copyright>
+          <year>2020<ndash />2023</year>
+          <holder>Mong Kon Mo</holder>
+          <shortlicense> 
+            This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit <url href="https://creativecommons.org/licenses/by-nc-sa/4.0/" visual="creativecommons.org/licenses/by-nc-sa/4.0"> CreativeCommons.org</url>
+          </shortlicense>
+        </copyright>
+      </colophon>
+    </frontmatter>
+
+    <chapter xml:id="Counting">
+      <title>Counting</title>
+
+      <section xml:id="addition-and-multiplication-principles">
+        <title>The Addition and Multiplication Principles of Counting</title>
+        <p>
+          This is a quadratic equation:
+          <me>
+            ax^2+bx+c = 0
+          </me>
+        </p>
+        <p>
+          This is not a quaratic equation: <m>mx+b=0</m>
+        </p>
+        <p>
+          Here's a computation:
+          <md>
+            <mrow>2x-3 \amp = 6 </mrow>
+            <mrow>2x \amp = 3</mrow>
+            <mrow>x\amp = \frac{3}{2}</mrow>
+          </md>
+        </p>
+      </section>
+    
+    </chapter>
+
+    <chapter xml:id="Probability">
+      <title>Probability</title>
+    </chapter>
+
+
+    <backmatter xml:id="backmatter">
+      <title>Backmatter</title>
+
+      <colophon>
+        <p> This book was authored in <pretext />. </p>
+      </colophon>
+
+    </backmatter>
+
+  </book>
+</pretext>

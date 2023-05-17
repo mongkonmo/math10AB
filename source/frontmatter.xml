@@ -11,20 +11,9 @@
 <!-- "noncomerical share and share alike".  All trademarks are the         -->
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<xi:include href="./bookinfo.xml" />
+<frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <xi:include href="./titlepage.xml" />
+    <xi:include href="./colophon.xml" />
 
-
-<book xml:id="math-10b">
-    <title>Math 10B</title>
-    <subtitle>Concepts in Math II</subtitle>
-
-    <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />
-
-    <xi:include href="./backmatter.xml" />
-
-</book>
-
-</pretext>
+</frontmatter>

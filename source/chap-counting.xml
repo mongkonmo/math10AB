@@ -11,20 +11,15 @@
 <!-- "noncomerical share and share alike".  All trademarks are the         -->
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<xi:include href="./bookinfo.xml" />
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C-counting">
 
+    <title>Counting</title>
 
-<book xml:id="math-10b">
-    <title>Math 10B</title>
-    <subtitle>Concepts in Math II</subtitle>
+    <!-- <xi:include  href="./sec-counting-intro.xml" /> -->
+    <xi:include  href="./sec-counting-add-multiply.xml" />
+    <xi:include  href="./sec-counting-rearrangement.xml" />
+    <xi:include  href="./sec-counting-labeling.xml" />
+    <xi:include  href="./sec-counting-combine-principles.xml" />
 
-    <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />
-
-    <xi:include href="./backmatter.xml" />
-
-</book>
-
-</pretext>
+</chapter>

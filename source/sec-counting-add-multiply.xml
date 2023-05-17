@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- **********************************************************************-->
+<!-- Copyright 2023                                                        -->
+<!-- Mong Kon Mo.                                                          -->
+<!--                                                                       -->
+<!--                                                                       -->
+<!-- Permission is granted to copy, distribute and/or modify this document -->
+<!-- under the terms of the Creative Commons BY-NC-SA license.  The work   -->
+<!-- may be used for free by any party so long as attribution is given to  -->
+<!-- the author(s), the work and its derivatives are used in the spirit of -->
+<!-- "noncomerical share and share alike".  All trademarks are the         -->
+<!-- registered marks of their respective owners.                          -->
+<!-- **********************************************************************-->
+
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-counting-add-multiply">
+    <title>The Addition and Multiplication Principles of Counting</title>
+
+    <objectives>
+        <ul>
+            <li><p>Understand when and how to use the Addition Principle of Counting</p></li>
+            <li><p>Understand when and how to use the Multiplication Principle of Counting</p></li>
+        </ul>
+    </objectives>
+
+
+    <introduction>
+        <p>
+            It may seem silly at first to have an entire chapter dedicated to the topic of counting at this stage of your mathematical development. After all, how hard could it be?
+        </p>
+    </introduction>
+
+    <investigation>
+        <introduction>
+            Let's consider a few "counting problems" to get a better sense of what may actually be involved in this seemingly simple task of counting.
+        </introduction>
+
+        <task xml:id="prob-count-by-enumerating">
+            <statement>
+                <p>
+                    How many squares are in the figure below?
+                </p>
+                <figure xml:id="fig-how-many-squares">
+                    <caption>
+                        An arrangement of squares of various sizes.
+                    </caption>
+                    <image width="20%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \draw (0,0) rectangle (2,2);
+                                \draw (1,0) -- (1,2);
+                                \draw (0,1) -- (2,1);
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </statement>
+            <solution>
+                <p>
+                    We can enumerate the individual squares as shown below and see that there are five squares.
+                </p>
+                <figure xml:id="fig-how-many-squares-soln">
+                    <caption>
+                        Enumerating the five squares in <xref ref="fig-how-many-squares">Figure</xref>
+                    </caption>
+                    <image width="50%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \draw (0,0) rectangle (2,2);
+                                \draw (1,0) -- (1,2);
+                                \draw (0,1) -- (2,1);
+                                \node at (0.5,1.5){\Large 1};
+                                \node at (1.5,1.5){\Large 2};
+                                \node at (0.5,0.5){\Large 3};
+                                \node at (1.5,0.5){\Large 4};
+
+                                \draw (3,0) rectangle (5,2);
+                                \node at (4,1){\Large 5};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </solution>
+        </task>
+
+        <task xml:id="prob-count-by-subitizing">
+            <statement>
+                <p>
+                    How many dots are in the figure below?
+                </p>
+                <figure xml:id="fig-how-many-dots">
+                    <caption>
+                        An arrangement of dots.
+                    </caption>
+                    <image width="15%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \filldraw (0,0) circle (0.25);
+                                \filldraw (2,0) circle (0.25);
+                                \filldraw (0,2) circle (0.25);
+                                \filldraw (2,2) circle (0.25);
+                                \filldraw (1,1) circle (0.25);
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </statement>
+            <solution>
+                <p>
+                    While we could also approach this question by enumerating the individual dots, another approach uses a concept called <idx><term>subitizing</term></idx>. This particular arrangement of dots is common and familiar to anyone who has played games that involve rolling a die. So we recognize this particular arrangement of dots and associate it with prior knowledge that their are five dots.
+                </p>
+            </solution>
+        </task>
+
+        <task xml:id="prob-count-by-multiplying">
+            <statement>
+                Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?
+            </statement>
+            <solution>
+            
+            </solution>
+        </task>
+
+    </investigation>
+
+</section>

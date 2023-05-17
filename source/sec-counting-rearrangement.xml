@@ -11,20 +11,22 @@
 <!-- "noncomerical share and share alike".  All trademarks are the         -->
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<xi:include href="./bookinfo.xml" />
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-counting-rearrangement">
+    <title>The Rearrangement Principle of Counting</title>
 
+    <!-- <p>Below is a list of basic skills that will be needed in this section.</p>
+    <outcomes>
+        <ul>
+            <li><p>Simplifying fractions</p></li>
+            <li><p>Working with factorials</p></li>
+        </ul>
+    </outcomes> -->
 
-<book xml:id="math-10b">
-    <title>Math 10B</title>
-    <subtitle>Concepts in Math II</subtitle>
+    <objectives>
+        <ul>
+            <li><p>Understand when and how to use the Rearrangement Principle of Counting</p></li>
+        </ul>
+    </objectives>
 
-    <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />
-
-    <xi:include href="./backmatter.xml" />
-
-</book>
-
-</pretext>
+</section>
