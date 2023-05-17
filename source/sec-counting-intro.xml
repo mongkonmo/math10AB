@@ -15,12 +15,118 @@
 <section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-counting-intro">
     <title>Introduction to Counting</title>
 
-    <objectives>
-        <ul>
-            <li><p>First</p></li>
-            <li><p>Second</p></li>
-        </ul>
-    </objectives>
+    <introduction>
+        <p>
+            It may seem silly at first to have an entire chapter dedicated to the topic of counting at this stage of your mathematical development. After all, how hard could it be?
+        </p>
+    </introduction>
+
+    <investigation>
+        <introduction>
+            Let's consider a few "counting problems" to get a better sense of what may actually be involved in this seemingly simple task of counting.
+        </introduction>
+
+        <task xml:id="prob-count-by-enumerating">
+            <statement>
+                <p>
+                    How many squares are in the figure below?
+                </p>
+                <figure xml:id="fig-how-many-squares">
+                    <caption>
+                        An arrangement of squares of various sizes.
+                    </caption>
+                    <image width="20%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \draw (0,0) rectangle (2,2);
+                                \draw (1,0) -- (1,2);
+                                \draw (0,1) -- (2,1);
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </statement>
+            <solution>
+                <p>
+                    We can enumerate the individual squares as shown below and see that there are five squares.
+                </p>
+                <figure xml:id="fig-how-many-squares-soln">
+                    <caption>
+                        Enumerating the five squares in <xref ref="fig-how-many-squares">Figure</xref>
+                    </caption>
+                    <image width="50%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \draw (0,0) rectangle (2,2);
+                                \draw (1,0) -- (1,2);
+                                \draw (0,1) -- (2,1);
+                                \node at (0.5,1.5){\Large 1};
+                                \node at (1.5,1.5){\Large 2};
+                                \node at (0.5,0.5){\Large 3};
+                                \node at (1.5,0.5){\Large 4};
+
+                                \draw (3,0) rectangle (5,2);
+                                \node at (4,1){\Large 5};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </solution>
+        </task>
+
+        <task xml:id="prob-count-by-subitizing">
+            <statement>
+                <p>
+                    How many dots are in the figure below?
+                </p>
+                <figure xml:id="fig-how-many-dots">
+                    <caption>
+                        An arrangement of dots.
+                    </caption>
+                    <image width="15%">
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \filldraw (0,0) circle (0.25);
+                                \filldraw (2,0) circle (0.25);
+                                \filldraw (0,2) circle (0.25);
+                                \filldraw (2,2) circle (0.25);
+                                \filldraw (1,1) circle (0.25);
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </statement>
+            <solution>
+                <idx><h>subitize</h></idx>
+                <p>
+                    While we could also approach this question by enumerating the individual dots, another approach uses a concept called <term>subitizing</term>. This particular arrangement of dots is common and familiar to anyone who has played games that involve rolling a die. So we recognize this particular arrangement of dots and associate it with prior knowledge that there are five dots.
+                </p>
+            </solution>
+        </task>
+
+        <task xml:id="prob-count-by-multiplying">
+            <statement>
+                Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?
+            </statement>
+            <solution>
+                <p>
+                    Since an outfit consists of a pants and a shirt, we need to count the number of ways we can pair each pants with each shirt. This gives us <m>4 \cdot 6 = 24</m> possible outfits.
+                </p>
+            </solution>
+        </task>
+
+        <conclusion>
+            <p>
+                As we can see from these problems, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:
+            </p>
+            <ol>
+                <li>The Addition Principole of Counting</li>
+                <li>The Multiplication Principle of Counting</li>
+                <li>The Rearrangement Principle of Counting</li>
+                <li>The Labelling Principle of Counting</li>
+            </ol>
+        </conclusion>
+    </investigation>
 
     
 

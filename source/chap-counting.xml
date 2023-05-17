@@ -16,7 +16,7 @@
 
     <title>Counting</title>
 
-    <!-- <xi:include  href="./sec-counting-intro.xml" /> -->
+    <xi:include  href="./sec-counting-intro.xml" />
     <xi:include  href="./sec-counting-add-multiply.xml" />
     <xi:include  href="./sec-counting-rearrangement.xml" />
     <xi:include  href="./sec-counting-labeling.xml" />
