@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- **********************************************************************-->
 <!-- Copyright 2023                                                        -->
-<!-- Mong Kon Mo.                                                          -->
+<!-- Mong Kon Mo                                                           -->
 <!--                                                                       -->
 <!--                                                                       -->
 <!-- Permission is granted to copy, distribute and/or modify this document -->
@@ -24,6 +24,10 @@
     <xi:include href="./chap-counting.xml" />
     <xi:include href="./chap-probability.xml" />
     <xi:include href="./chap-data.xml" />
+    <xi:include href="./chap-geometry.xml" />
+    <xi:include href="./chap-transformations.xml" />
+    <xi:include href="./chap-3d.xml" />
+    <xi:include href="./chap-measurement.xml" />
 
     <xi:include href="./backmatter.xml" />
 

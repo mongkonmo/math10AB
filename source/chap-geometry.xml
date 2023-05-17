@@ -12,14 +12,15 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-data-summarizing">
-    <title>Summarizing Data</title>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C-geometry">
 
-    <introduction>
-        <p>
-            An introduction
-        </p>
-    </introduction>
+    <title>Geometry</title>
 
+    <xi:include  href="./sec-geometry-intro.xml" />
+    <xi:include  href="./sec-geometry-constructions.xml" />
+    <xi:include  href="./sec-geometry-angle-pair-relations.xml" />
+    <xi:include  href="./sec-geometry-transversals.xml" />
+    <xi:include  href="./sec-geometry-polygon-angles.xml" />
+    <xi:include  href="./sec-geometry-triangles-quads.xml" />
 
-</section>
+</chapter>

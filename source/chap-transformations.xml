@@ -12,14 +12,15 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-data-summarizing">
-    <title>Summarizing Data</title>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C-transformations">
 
-    <introduction>
-        <p>
-            An introduction
-        </p>
-    </introduction>
+    <title>Geometric Transformations</title>
 
+    <xi:include  href="./sec-transformations-intro.xml" />
+    <xi:include  href="./sec-transformations-coord.xml" />
+    <xi:include  href="./sec-transformations-dilations.xml" />
+    <xi:include  href="./sec-transformations-congruence.xml" />
+    <xi:include  href="./sec-transformations-similarity.xml" />
+    <xi:include  href="./sec-transformations-symmetry.xml" />
 
-</section>
+</chapter>

@@ -12,14 +12,16 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-data-summarizing">
-    <title>Summarizing Data</title>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C-measurement">
 
-    <introduction>
-        <p>
-            An introduction
-        </p>
-    </introduction>
+    <title>3-Dimensional Geometry</title>
 
+    <xi:include  href="./sec-measurement-intro.xml" />
+    <xi:include  href="./sec-measurement-dist-angles.xml" />
+    <xi:include  href="./sec-measurement-triangle-inequality.xml" />
+    <xi:include  href="./sec-measurement-perimeter-area.xml" />
+    <xi:include  href="./sec-measurement-pythagorean.xml" />
+    <xi:include  href="./sec-measurement-sa-vol.xml" />
+    <xi:include  href="./sec-measurement-units.xml" />
 
-</section>
+</chapter>
