@@ -10,6 +10,15 @@ var ptx_lunr_docs = [
   "body": " 2023  copyright  "
 },
 {
+  "id": "preface-1",
+  "level": "1",
+  "url": "preface-1.html",
+  "type": "Preface",
+  "number": "",
+  "title": "Preface",
+  "body": " This text is intended for a two-semester sequence of mathematics courses for students in the Liberal Studies program who are studying to become elementary school teachers.  "
+},
+{
   "id": "sec-counting-intro",
   "level": "1",
   "url": "sec-counting-intro.html",
