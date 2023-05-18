@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Introduction to Probability",
-  "body": " Introduction to Probability   An introduction   "
+  "body": " Introduction to Probability   Coming soon...   "
 },
 {
   "id": "sec-probability-multistage",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Multistage Experiments",
-  "body": " Multistage Experiments   An introduction   "
+  "body": " Multistage Experiments   Coming soon...   "
 },
 {
   "id": "sec-probability-games",
@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Probability in Games",
-  "body": " Probability in Games   An introduction   "
+  "body": " Probability in Games   Coming soon...   "
 },
 {
   "id": "sec-data-intro",
@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Introduction to Data and Statistics",
-  "body": " Introduction to Data and Statistics   An introduction   "
+  "body": " Introduction to Data and Statistics   Coming soon...   "
 },
 {
   "id": "sec-data-collecting",
@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Collecting Data",
-  "body": " Collecting Data   An introduction   "
+  "body": " Collecting Data   Coming soon...   "
 },
 {
   "id": "sec-data-presenting",
@@ -178,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Presenting Data",
-  "body": " Presenting Data   An introduction   "
+  "body": " Presenting Data   Coming soon...   "
 },
 {
   "id": "sec-data-summarizing",
@@ -187,7 +187,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.4",
   "title": "Summarizing Data",
-  "body": " Summarizing Data   An introduction   "
+  "body": " Summarizing Data   Coming soon...   "
 },
 {
   "id": "sec-geometry-intro",
@@ -196,7 +196,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Introduction to Geometry",
-  "body": " Introduction to Geometry   An introduction   "
+  "body": " Introduction to Geometry   Coming soon...   "
 },
 {
   "id": "sec-geometry-constructions",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Geometric Constructions",
-  "body": " Geometric Constructions   An introduction   "
+  "body": " Geometric Constructions   Coming soon...   "
 },
 {
   "id": "sec-geometry-angle-pair-relations",
@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Angle Pair Relationships",
-  "body": " Angle Pair Relationships   An introduction   "
+  "body": " Angle Pair Relationships   Coming soon...   "
 },
 {
   "id": "sec-geometry-transversals",
@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.4",
   "title": "Parralel Lines and Transversals",
-  "body": " Parralel Lines and Transversals   An introduction   "
+  "body": " Parralel Lines and Transversals   Coming soon...   "
 },
 {
   "id": "sec-geometry-polygon-angles",
@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "Angle Relationships in Polygons",
-  "body": " Angle Relationships in Polygons   An introduction   "
+  "body": " Angle Relationships in Polygons   Coming soon...   "
 },
 {
   "id": "sec-geometry-triangles-quads",
@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "Triangles and Quadrilaterals",
-  "body": " Triangles and Quadrilaterals   An introduction   "
+  "body": " Triangles and Quadrilaterals   Coming soon...   "
 },
 {
   "id": "sec-transformations-intro",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Introduction to Geometric Transformations",
-  "body": " Introduction to Geometric Transformations   An introduction   "
+  "body": " Introduction to Geometric Transformations   Coming soon...   "
 },
 {
   "id": "sec-transformations-coord",
@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Coordinate Mapping Rules",
-  "body": " Coordinate Mapping Rules   An introduction   "
+  "body": " Coordinate Mapping Rules   Coming soon...   "
 },
 {
   "id": "sec-transformations-dilations",
@@ -268,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Dilations",
-  "body": " Dilations   An introduction   "
+  "body": " Dilations   Coming soon...   "
 },
 {
   "id": "sec-transformations-congruence",
@@ -277,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Congruence",
-  "body": " Congruence   An introduction   "
+  "body": " Congruence   Coming soon...   "
 },
 {
   "id": "sec-transformations-similarity",
@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.5",
   "title": "Similarity",
-  "body": " Similarity   An introduction   "
+  "body": " Similarity   Coming soon...   "
 },
 {
   "id": "sec-transformations-symmetry",
@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Symmetry",
-  "body": " Symmetry   An introduction   "
+  "body": " Symmetry   Coming soon...   "
 },
 {
   "id": "sec-3d-intro",
@@ -304,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Introduction to 3-Dimensional Shapes",
-  "body": " Introduction to 3-Dimensional Shapes   An introduction   "
+  "body": " Introduction to 3-Dimensional Shapes   Coming soon...   "
 },
 {
   "id": "sec-3d-platonic",
@@ -313,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Platonic Solids",
-  "body": " Platonic Solids   An introduction   "
+  "body": " Platonic Solids   Coming soon...   "
 },
 {
   "id": "sec-3d-prisms-pyramids",
@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.3",
   "title": "Prisms and Pyramids",
-  "body": " Prisms and Pyramids   An introduction   "
+  "body": " Prisms and Pyramids   Coming soon...   "
 },
 {
   "id": "sec-3d-nets",
@@ -331,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.4",
   "title": "Nets for 3-Dimensional Shapes",
-  "body": " Nets for 3-Dimensional Shapes   An introduction   "
+  "body": " Nets for 3-Dimensional Shapes   Coming soon...   "
 },
 {
   "id": "sec-measurement-intro",
@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.1",
   "title": "Introduction to Measurements in Geometry",
-  "body": " Introduction to Measurements in Geometry   An introduction   "
+  "body": " Introduction to Measurements in Geometry   Coming soon...   "
 },
 {
   "id": "sec-measurement-dist-angles",
@@ -349,7 +349,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.2",
   "title": "Distances and Angles",
-  "body": " Distances and Angles   An introduction   "
+  "body": " Distances and Angles   Coming soon...   "
 },
 {
   "id": "sec-measurement-triangle-inequality",
@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.3",
   "title": "The Triangle Inequality Theorem",
-  "body": " The Triangle Inequality Theorem   An introduction   "
+  "body": " The Triangle Inequality Theorem   Coming soon...   "
 },
 {
   "id": "sec-measurement-perimeter-area",
@@ -367,7 +367,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.4",
   "title": "Perimeter and Area",
-  "body": " Perimeter and Area   An introduction   "
+  "body": " Perimeter and Area   Coming soon...   "
 },
 {
   "id": "sec-measurement-pythagorean",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.5",
   "title": "The Pythagorean Theorem",
-  "body": " The Pythagorean Theorem   An introduction   "
+  "body": " The Pythagorean Theorem   Coming soon...   "
 },
 {
   "id": "sec-measurement-sa-vol",
@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.6",
   "title": "Surface Area and Volume",
-  "body": " Surface Area and Volume   An introduction   "
+  "body": " Surface Area and Volume   Coming soon...   "
 },
 {
   "id": "sec-measurement-units",
@@ -394,7 +394,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.7",
   "title": "Unit Conversions",
-  "body": " Unit Conversions   An introduction   "
+  "body": " Unit Conversions   Coming soon...   "
 },
 {
   "id": "index-1",
