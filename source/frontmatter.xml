@@ -15,5 +15,6 @@
 <frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
     <xi:include href="./titlepage.xml" />
     <xi:include href="./colophon.xml" />
+    <xi:include href="./preface.xml" />
 
 </frontmatter>

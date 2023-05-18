@@ -11,26 +11,11 @@
 <!-- "noncomerical share and share alike".  All trademarks are the         -->
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<xi:include href="./bookinfo.xml" />
+<preface xmlns:xi="http://www.w3.org/2001/XInclude">
 
+    <p>
+        This text is intended for a two-semester sequence of mathematics courses for students in the Liberal Studies program who are studying to become elementary school teachers.
+    </p>
 
-<book xml:id="math-10b">
-    <title>Mathematics for Elementary School Teachers</title>
-    <!-- <subtitle>Concepts in Math II</subtitle> -->
-
-    <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />pre
-    <xi:include href="./chap-probability.xml" />
-    <xi:include href="./chap-data.xml" />
-    <xi:include href="./chap-geometry.xml" />
-    <xi:include href="./chap-transformations.xml" />
-    <xi:include href="./chap-3d.xml" />
-    <xi:include href="./chap-measurement.xml" />
-
-    <xi:include href="./backmatter.xml" />
-
-</book>
-
-</pretext>
+</preface>
