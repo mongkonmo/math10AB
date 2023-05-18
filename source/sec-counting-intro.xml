@@ -21,12 +21,12 @@
         </p>
     </introduction>
 
-    <investigation>
+    <investigation xml:id="inv-counting">
         <introduction>
             Let's consider a few "counting problems" to get a better sense of what may actually be involved in this seemingly simple task of counting.
         </introduction>
 
-        <task xml:id="prob-count-by-enumerating">
+        <task xml:id="inv-count-by-enumerating">
             <statement>
                 <p>
                     How many squares are in the figure below?
@@ -74,7 +74,7 @@
             </solution>
         </task>
 
-        <task xml:id="prob-count-by-subitizing">
+        <task xml:id="inv-count-by-subitizing">
             <statement>
                 <p>
                     How many dots are in the figure below?
@@ -104,7 +104,7 @@
             </solution>
         </task>
 
-        <task xml:id="prob-count-by-multiplying">
+        <task xml:id="inv-count-by-multiplying">
             <statement>
                 Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?
             </statement>
@@ -117,10 +117,10 @@
 
         <conclusion>
             <p>
-                As we can see from these problems, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:
+                As we can see from these solutions, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:
             </p>
             <ol>
-                <li>The Addition Principole of Counting</li>
+                <li>The Addition Principle of Counting</li>
                 <li>The Multiplication Principle of Counting</li>
                 <li>The Rearrangement Principle of Counting</li>
                 <li>The Labelling Principle of Counting</li>

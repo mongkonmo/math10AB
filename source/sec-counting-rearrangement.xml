@@ -15,13 +15,13 @@
 <section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec-counting-rearrangement">
     <title>The Rearrangement Principle of Counting</title>
 
-    <!-- <p>Below is a list of basic skills that will be needed in this section.</p>
+    <p>Below is a list of basic skills that will be needed in this section.</p>
     <outcomes>
-        <ul>
+        <ol>
             <li><p>Simplifying fractions</p></li>
             <li><p>Working with factorials</p></li>
-        </ul>
-    </outcomes> -->
+        </ol>
+    </outcomes>
 
     <objectives>
         <ol>

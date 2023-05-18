@@ -14,7 +14,7 @@
 
 <chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C-measurement">
 
-    <title>3-Dimensional Geometry</title>
+    <title>Measurement in Geometry</title>
 
     <xi:include  href="./sec-measurement-intro.xml" />
     <xi:include  href="./sec-measurement-dist-angles.xml" />

@@ -22,6 +22,18 @@
         </ol>
     </objectives>
 
+    <exploration xml:id="exp-add-multiply">
+        <introduction>
+            <p>
+                Suppose that a restaurant menu has 6 appetizers and 10 entrées. How many options do you have if
+                <ol>
+                    <li>you only order one dish, either an appetizer or an entrée?</li>
+                    <li>you are hungry and will order both an appetizer and an entrée?</li>
+                </ol>
+            </p>
+            
+        </introduction>
+    </exploration>
 
-
+    
 </section>
