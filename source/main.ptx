@@ -21,7 +21,7 @@
     <subtitle>Concepts in Math II</subtitle>
 
     <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />
+    <xi:include href="./chap-counting.xml" />pre
     <xi:include href="./chap-probability.xml" />
     <xi:include href="./chap-data.xml" />
     <xi:include href="./chap-geometry.xml" />
