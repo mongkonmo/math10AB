@@ -12,19 +12,29 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec_counting_add-multiply">
+    <title>The Addition and Multiplication Principles of Counting</title>
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <objectives>
+        <ol>
+            <li><p>Understand when and how to use the Addition Principle of Counting</p></li>
+            <li><p>Understand when and how to use the Multiplication Principle of Counting</p></li>
+        </ol>
+    </objectives>
 
-    <date><today /></date>
+    <exploration xml:id="exp-add-multiply">
+        <introduction>
+            <p>
+                Suppose that a restaurant menu has 6 appetizers and 10 entrées. How many options do you have if
+                <ol>
+                    <li>you only order one dish, either an appetizer or an entrée?</li>
+                    <li>you are hungry and will order both an appetizer and an entrée?</li>
+                </ol>
+            </p>
 
-    <p>
-        Last Updated:
-    </p>
+            
+        </introduction>
+    </exploration>
 
-</titlepage>
+    
+</section>

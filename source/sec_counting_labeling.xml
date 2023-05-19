@@ -12,19 +12,13 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec_counting_labeling">
+    <title>The Labeling Principle of Counting</title>
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <objectives>
+        <ol>
+            <li><p>Understand when and how to use the Labeling Principle of Counting</p></li>
+        </ol>
+    </objectives>
 
-    <date><today /></date>
-
-    <p>
-        Last Updated:
-    </p>
-
-</titlepage>
+</section>

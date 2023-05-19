@@ -18,16 +18,19 @@
 
 <book xml:id="math-10b">
     <title>Mathematics for Elementary School Teachers</title>
-    <!-- <subtitle>Concepts in Math II</subtitle> -->
 
     <xi:include href="./frontmatter.xml" />
-    <xi:include href="./chap-counting.xml" />pre
-    <xi:include href="./chap-probability.xml" />
-    <xi:include href="./chap-data.xml" />
-    <xi:include href="./chap-geometry.xml" />
-    <xi:include href="./chap-transformations.xml" />
-    <xi:include href="./chap-3d.xml" />
-    <xi:include href="./chap-measurement.xml" />
+    <xi:include href="./chap_sets.xml" />
+    <xi:include href="./chap_num-sys.xml" />
+    <xi:include href="./chap_whole-num.xml" />
+    <xi:include href="./chap_diff-bases.xml" />
+    <xi:include href="./chap_counting.xml" />
+    <xi:include href="./chap_probability.xml" />
+    <xi:include href="./chap_data.xml" />
+    <xi:include href="./chap_geometry.xml" />
+    <xi:include href="./chap_transformations.xml" />
+    <xi:include href="./chap_3d.xml" />
+    <xi:include href="./chap_measurement.xml" />
 
     <xi:include href="./backmatter.xml" />
 

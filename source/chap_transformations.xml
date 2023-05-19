@@ -12,19 +12,15 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_transformations">
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <title>Geometric Transformations</title>
 
-    <date><today /></date>
+    <xi:include  href="./sec_transformations_intro.xml" />
+    <xi:include  href="./sec_transformations_coord.xml" />
+    <xi:include  href="./sec_transformations_dilations.xml" />
+    <xi:include  href="./sec_transformations_congruence.xml" />
+    <xi:include  href="./sec_transformations_similarity.xml" />
+    <xi:include  href="./sec_transformations_symmetry.xml" />
 
-    <p>
-        Last Updated:
-    </p>
-
-</titlepage>
+</chapter>

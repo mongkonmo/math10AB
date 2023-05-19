@@ -12,19 +12,13 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_whole-num_mult-div-strategies">
+    <title>Multiplication and Division Models and Strategies</title>
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <introduction>
+        <p>
+            Coming soon...
+        </p>
+    </introduction>
 
-    <date><today /></date>
-
-    <p>
-        Last Updated:
-    </p>
-
-</titlepage>
+</section>

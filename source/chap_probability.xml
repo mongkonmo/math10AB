@@ -12,19 +12,12 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_probability">
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <title>Probability</title>
 
-    <date><today /></date>
+    <xi:include  href="./sec_probability_intro.xml" />
+    <xi:include  href="./sec_probability_multistage.xml" />
+    <xi:include  href="./sec_probability_games.xml" />
 
-    <p>
-        Last Updated:
-    </p>
-
-</titlepage>
+</chapter>

@@ -12,19 +12,14 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_whole-num">
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <title>Whole Number Operations</title>
 
-    <date><today /></date>
+    <xi:include  href="./sec_whole-num_intro.xml" />
+    <xi:include  href="./sec_whole-num_add-subtract-types.xml" />
+    <xi:include  href="./sec_whole-num_add-subtract-strategies.xml" />
+    <xi:include  href="./sec_whole-num_mult-div-types.xml" />
+    <xi:include  href="./sec_whole-num_mult-div-strategies.xml" />
 
-    <p>
-        Last Updated:
-    </p>
-
-</titlepage>
+</chapter>

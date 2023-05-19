@@ -12,19 +12,15 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<titlepage xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_diff-bases">
 
-    <author>
-        <personname>Mong Kon Mo</personname>
-        <department>Department of Mathematics</department>
-        <institution>California State University, Fresno</institution>
-        <email>mongkonmo@csufresno.edu</email>
-    </author>
+    <title>Other Number-Base Systems</title>
 
-    <date><today /></date>
+    <xi:include  href="./sec_diff-bases_intro.xml" />
+    <xi:include  href="./sec_diff-bases_dots-model.xml" />
+    <xi:include  href="./sec_diff-bases_add.xml" />
+    <xi:include  href="./sec_diff-bases_mult.xml" />
+    <xi:include  href="./sec_diff-bases_subtract.xml" />
+    <xi:include  href="./sec_diff-bases_div.xml" />
 
-    <p>
-        Last Updated:
-    </p>
-
-</titlepage>
+</chapter>
