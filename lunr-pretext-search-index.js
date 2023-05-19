@@ -501,8 +501,8 @@ var ptx_lunr_docs = [
   "url": "sec_geometry_-transversals.html",
   "type": "Section",
   "number": "13.4",
-  "title": "Parralel Lines and Transversals",
-  "body": " Parralel Lines and Transversals    Recognize relationships between two angles formed by two lines and a transversal (e.g., corresponding angles, alternate interior angles, same-side interior angles, etc.)  Use angle pair relationships between two angles formed by two lines and a transversal to determine measures of missing angles in a figure    "
+  "title": "Parallel Lines and Transversals",
+  "body": " Parallel Lines and Transversals    Recognize relationships between two angles formed by two lines and a transversal (e.g., corresponding angles, alternate interior angles, same-side interior angles, etc.)  Use angle pair relationships between two angles formed by two lines and a transversal to determine measures of missing angles in a figure    "
 },
 {
   "id": "objectives-8",
