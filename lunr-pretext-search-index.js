@@ -262,11 +262,20 @@ var ptx_lunr_docs = [
   "body": " Introduction to Exponents   Coming soon...   "
 },
 {
+  "id": "sec_patterns_intro",
+  "level": "1",
+  "url": "sec_patterns_intro.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "Introduction to Patterns",
+  "body": " Introduction to Patterns   Coming soon...   "
+},
+{
   "id": "sec_counting_intro",
   "level": "1",
   "url": "sec_counting_intro.html",
   "type": "Section",
-  "number": "9.1",
+  "number": "10.1",
   "title": "Introduction to Counting",
   "body": " Introduction to Counting   It may seem silly at first to have an entire chapter dedicated to the topic of counting at this stage of your mathematical development. After all, how hard could it be?    Let's consider a few \"counting problems\" to get a better sense of what may actually be involved in this seemingly simple task of counting.   How many squares are in the figure below?   An arrangement of squares of various sizes.       We can enumerate the individual squares as shown below and see that there are five squares.   Enumerating the five squares in Figure         How many dots are in the figure below?   An arrangement of dots.       subitize  While we could also approach this question by enumerating the individual dots, another approach uses a concept called subitizing . This particular arrangement of dots is common and familiar to anyone who has played games that involve rolling a die. So we recognize this particular arrangement of dots and associate it with prior knowledge that there are five dots.   Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?  Since an outfit consists of a pants and a shirt, we need to count the number of ways we can pair each pants with each shirt. This gives us possible outfits.    As we can see from these solutions, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:   The Addition Principle of Counting  The Multiplication Principle of Counting  The Rearrangement Principle of Counting  The Labelling Principle of Counting     "
 },
@@ -275,7 +284,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_intro.html#inv-counting",
   "type": "Investigation",
-  "number": "9.1.1",
+  "number": "10.1.1",
   "title": "",
   "body": " Let's consider a few \"counting problems\" to get a better sense of what may actually be involved in this seemingly simple task of counting.   How many squares are in the figure below?   An arrangement of squares of various sizes.       We can enumerate the individual squares as shown below and see that there are five squares.   Enumerating the five squares in Figure         How many dots are in the figure below?   An arrangement of dots.       subitize  While we could also approach this question by enumerating the individual dots, another approach uses a concept called subitizing . This particular arrangement of dots is common and familiar to anyone who has played games that involve rolling a die. So we recognize this particular arrangement of dots and associate it with prior knowledge that there are five dots.   Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?  Since an outfit consists of a pants and a shirt, we need to count the number of ways we can pair each pants with each shirt. This gives us possible outfits.    As we can see from these solutions, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:   The Addition Principle of Counting  The Multiplication Principle of Counting  The Rearrangement Principle of Counting  The Labelling Principle of Counting    "
 },
@@ -284,7 +293,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_add-multiply.html",
   "type": "Section",
-  "number": "9.2",
+  "number": "10.2",
   "title": "The Addition and Multiplication Principles of Counting",
   "body": " The Addition and Multiplication Principles of Counting    Understand when and how to use the Addition Principle of Counting  Understand when and how to use the Multiplication Principle of Counting      Suppose that a restaurant menu has 6 appetizers and 10 entrées. How many options do you have if  you only order one dish, either an appetizer or an entrée?  you are hungry and will order both an appetizer and an entrée?      "
 },
@@ -293,7 +302,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_add-multiply.html#objectives-1",
   "type": "Objectives",
-  "number": "9.2",
+  "number": "10.2",
   "title": "",
   "body": "  Understand when and how to use the Addition Principle of Counting  Understand when and how to use the Multiplication Principle of Counting   "
 },
@@ -302,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_add-multiply.html#exp-add-multiply",
   "type": "Exploration",
-  "number": "9.2.1",
+  "number": "10.2.1",
   "title": "",
   "body": "  Suppose that a restaurant menu has 6 appetizers and 10 entrées. How many options do you have if  you only order one dish, either an appetizer or an entrée?  you are hungry and will order both an appetizer and an entrée?     "
 },
@@ -311,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_rearrangement.html",
   "type": "Section",
-  "number": "9.3",
+  "number": "10.3",
   "title": "The Rearrangement Principle of Counting",
   "body": " The Rearrangement Principle of Counting  Below is a list of basic skills that will be needed in this section.    Simplifying fractions  Working with factorials      Understand when and how to use the Rearrangement Principle of Counting    "
 },
@@ -320,7 +329,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_rearrangement.html#outcomes-1",
   "type": "Prerequisites",
-  "number": "9.3",
+  "number": "10.3",
   "title": "",
   "body": "  Simplifying fractions  Working with factorials   "
 },
@@ -329,7 +338,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_rearrangement.html#objectives-2",
   "type": "Objectives",
-  "number": "9.3",
+  "number": "10.3",
   "title": "",
   "body": "  Understand when and how to use the Rearrangement Principle of Counting   "
 },
@@ -338,7 +347,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_labeling.html",
   "type": "Section",
-  "number": "9.4",
+  "number": "10.4",
   "title": "The Labeling Principle of Counting",
   "body": " The Labeling Principle of Counting    Understand when and how to use the Labeling Principle of Counting    "
 },
@@ -347,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_labeling.html#objectives-3",
   "type": "Objectives",
-  "number": "9.4",
+  "number": "10.4",
   "title": "",
   "body": "  Understand when and how to use the Labeling Principle of Counting   "
 },
@@ -356,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_combine-principles.html",
   "type": "Section",
-  "number": "9.5",
+  "number": "10.5",
   "title": "Combining Principles of Counting",
   "body": " Combining Principles of Counting    Solve counting problems that involve using multiple principles of counting    "
 },
@@ -365,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_combine-principles.html#objectives-4",
   "type": "Objectives",
-  "number": "9.5",
+  "number": "10.5",
   "title": "",
   "body": "  Solve counting problems that involve using multiple principles of counting   "
 },
@@ -374,7 +383,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_probability_intro.html",
   "type": "Section",
-  "number": "10.1",
+  "number": "11.1",
   "title": "Introduction to Probability",
   "body": " Introduction to Probability   Coming soon...   "
 },
@@ -383,7 +392,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_probability_multistage.html",
   "type": "Section",
-  "number": "10.2",
+  "number": "11.2",
   "title": "Multistage Experiments",
   "body": " Multistage Experiments   Coming soon...   "
 },
@@ -392,7 +401,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_probability_games.html",
   "type": "Section",
-  "number": "10.3",
+  "number": "11.3",
   "title": "Probability in Games",
   "body": " Probability in Games   Coming soon...   "
 },
@@ -401,7 +410,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_intro.html",
   "type": "Section",
-  "number": "11.1",
+  "number": "12.1",
   "title": "Introduction to Data and Statistics",
   "body": " Introduction to Data and Statistics   Coming soon...   "
 },
@@ -410,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_collecting.html",
   "type": "Section",
-  "number": "11.2",
+  "number": "12.2",
   "title": "Collecting Data",
   "body": " Collecting Data   Coming soon...   "
 },
@@ -419,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_presenting.html",
   "type": "Section",
-  "number": "11.3",
+  "number": "12.3",
   "title": "Presenting Data",
   "body": " Presenting Data   Coming soon...   "
 },
@@ -428,70 +437,124 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_summarizing.html",
   "type": "Section",
-  "number": "11.4",
+  "number": "12.4",
   "title": "Summarizing Data",
   "body": " Summarizing Data   Coming soon...   "
 },
 {
-  "id": "sec_geometry_-intro",
+  "id": "sec_geometry_intro",
   "level": "1",
-  "url": "sec_geometry_-intro.html",
+  "url": "sec_geometry_intro.html",
   "type": "Section",
-  "number": "12.1",
+  "number": "13.1",
   "title": "Introduction to Geometry",
-  "body": " Introduction to Geometry   Coming soon...   "
+  "body": " Introduction to Geometry    Identify basic geometric objects (e.g., line segments, rays, lines, angles, etc.)  Use appropriate mathematical notation to name basic geometric objects.    "
+},
+{
+  "id": "objectives-5",
+  "level": "2",
+  "url": "sec_geometry_intro.html#objectives-5",
+  "type": "Objectives",
+  "number": "13.1",
+  "title": "",
+  "body": "  Identify basic geometric objects (e.g., line segments, rays, lines, angles, etc.)  Use appropriate mathematical notation to name basic geometric objects.   "
 },
 {
   "id": "sec_geometry_-constructions",
   "level": "1",
   "url": "sec_geometry_-constructions.html",
   "type": "Section",
-  "number": "12.2",
+  "number": "13.2",
   "title": "Geometric Constructions",
-  "body": " Geometric Constructions   Coming soon...   "
+  "body": " Geometric Constructions    Use a compass and straightedge to perform the 8 basic geometric constructions  Combine basic geometric constructions to construct other geometric objects (e.g., square, triangle, etc.)    "
+},
+{
+  "id": "objectives-6",
+  "level": "2",
+  "url": "sec_geometry_-constructions.html#objectives-6",
+  "type": "Objectives",
+  "number": "13.2",
+  "title": "",
+  "body": "  Use a compass and straightedge to perform the 8 basic geometric constructions  Combine basic geometric constructions to construct other geometric objects (e.g., square, triangle, etc.)   "
 },
 {
   "id": "sec_geometry_-angle-pair-relations",
   "level": "1",
   "url": "sec_geometry_-angle-pair-relations.html",
   "type": "Section",
-  "number": "12.3",
+  "number": "13.3",
   "title": "Angle Pair Relationships",
-  "body": " Angle Pair Relationships   Coming soon...   "
+  "body": " Angle Pair Relationships    Recognize relationships between two angles (e.g., vertical angles, supplementary angles, complementary angles, etc.)  Use angle pair relationships to determine measures of missing angles in a figure    "
+},
+{
+  "id": "objectives-7",
+  "level": "2",
+  "url": "sec_geometry_-angle-pair-relations.html#objectives-7",
+  "type": "Objectives",
+  "number": "13.3",
+  "title": "",
+  "body": "  Recognize relationships between two angles (e.g., vertical angles, supplementary angles, complementary angles, etc.)  Use angle pair relationships to determine measures of missing angles in a figure   "
 },
 {
   "id": "sec_geometry_-transversals",
   "level": "1",
   "url": "sec_geometry_-transversals.html",
   "type": "Section",
-  "number": "12.4",
+  "number": "13.4",
   "title": "Parralel Lines and Transversals",
-  "body": " Parralel Lines and Transversals   Coming soon...   "
+  "body": " Parralel Lines and Transversals    Recognize relationships between two angles formed by two lines and a transversal (e.g., corresponding angles, alternate interior angles, same-side interior angles, etc.)  Use angle pair relationships between two angles formed by two lines and a transversal to determine measures of missing angles in a figure    "
+},
+{
+  "id": "objectives-8",
+  "level": "2",
+  "url": "sec_geometry_-transversals.html#objectives-8",
+  "type": "Objectives",
+  "number": "13.4",
+  "title": "",
+  "body": "  Recognize relationships between two angles formed by two lines and a transversal (e.g., corresponding angles, alternate interior angles, same-side interior angles, etc.)  Use angle pair relationships between two angles formed by two lines and a transversal to determine measures of missing angles in a figure   "
 },
 {
   "id": "sec_geometry_-polygon-angles",
   "level": "1",
   "url": "sec_geometry_-polygon-angles.html",
   "type": "Section",
-  "number": "12.5",
+  "number": "13.5",
   "title": "Angle Relationships in Polygons",
-  "body": " Angle Relationships in Polygons   Coming soon...   "
+  "body": " Angle Relationships in Polygons    Use the Interior Angle Sum Theorem for polygons to determine information about missing angles in a polygon  Use the Exterior Angle Sum Theorem for polygons to determine information about missing angles in a polygon    "
+},
+{
+  "id": "objectives-9",
+  "level": "2",
+  "url": "sec_geometry_-polygon-angles.html#objectives-9",
+  "type": "Objectives",
+  "number": "13.5",
+  "title": "",
+  "body": "  Use the Interior Angle Sum Theorem for polygons to determine information about missing angles in a polygon  Use the Exterior Angle Sum Theorem for polygons to determine information about missing angles in a polygon   "
 },
 {
   "id": "sec_geometry_-triangles-quads",
   "level": "1",
   "url": "sec_geometry_-triangles-quads.html",
   "type": "Section",
-  "number": "12.6",
+  "number": "13.6",
   "title": "Triangles and Quadrilaterals",
-  "body": " Triangles and Quadrilaterals   Coming soon...   "
+  "body": " Triangles and Quadrilaterals    Identify different types of triangles (e.g., equilateral, scalene, obtuse, etc.) based on side lengths and angle measures  Identify different types of quadrilaterals (e.g., rectangle, square, trapezoid, etc.) by checking their definitions    "
+},
+{
+  "id": "objectives-10",
+  "level": "2",
+  "url": "sec_geometry_-triangles-quads.html#objectives-10",
+  "type": "Objectives",
+  "number": "13.6",
+  "title": "",
+  "body": "  Identify different types of triangles (e.g., equilateral, scalene, obtuse, etc.) based on side lengths and angle measures  Identify different types of quadrilaterals (e.g., rectangle, square, trapezoid, etc.) by checking their definitions   "
 },
 {
   "id": "sec_transformations_intro",
   "level": "1",
   "url": "sec_transformations_intro.html",
   "type": "Section",
-  "number": "13.1",
+  "number": "14.1",
   "title": "Introduction to Geometric Transformations",
   "body": " Introduction to Geometric Transformations   Coming soon...   "
 },
@@ -500,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_coord.html",
   "type": "Section",
-  "number": "13.2",
+  "number": "14.2",
   "title": "Coordinate Mapping Rules",
   "body": " Coordinate Mapping Rules   Coming soon...   "
 },
@@ -509,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_dilations.html",
   "type": "Section",
-  "number": "13.3",
+  "number": "14.3",
   "title": "Dilations",
   "body": " Dilations   Coming soon...   "
 },
@@ -518,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_congruence.html",
   "type": "Section",
-  "number": "13.4",
+  "number": "14.4",
   "title": "Congruence",
   "body": " Congruence   Coming soon...   "
 },
@@ -527,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_similarity.html",
   "type": "Section",
-  "number": "13.5",
+  "number": "14.5",
   "title": "Similarity",
   "body": " Similarity   Coming soon...   "
 },
@@ -536,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_symmetry.html",
   "type": "Section",
-  "number": "13.6",
+  "number": "14.6",
   "title": "Symmetry",
   "body": " Symmetry   Coming soon...   "
 },
@@ -545,7 +608,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_intro.html",
   "type": "Section",
-  "number": "14.1",
+  "number": "15.1",
   "title": "Introduction to 3-Dimensional Shapes",
   "body": " Introduction to 3-Dimensional Shapes   Coming soon...   "
 },
@@ -554,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_platonic.html",
   "type": "Section",
-  "number": "14.2",
+  "number": "15.2",
   "title": "Platonic Solids",
   "body": " Platonic Solids   Coming soon...   "
 },
@@ -563,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_prisms-pyramids.html",
   "type": "Section",
-  "number": "14.3",
+  "number": "15.3",
   "title": "Prisms and Pyramids",
   "body": " Prisms and Pyramids   Coming soon...   "
 },
@@ -572,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_nets.html",
   "type": "Section",
-  "number": "14.4",
+  "number": "15.4",
   "title": "Nets for 3-Dimensional Shapes",
   "body": " Nets for 3-Dimensional Shapes   Coming soon...   "
 },
@@ -581,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_intro.html",
   "type": "Section",
-  "number": "15.1",
+  "number": "16.1",
   "title": "Introduction to Measurements in Geometry",
   "body": " Introduction to Measurements in Geometry   Coming soon...   "
 },
@@ -590,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_dist-angles.html",
   "type": "Section",
-  "number": "15.2",
+  "number": "16.2",
   "title": "Distances and Angles",
   "body": " Distances and Angles   Coming soon...   "
 },
@@ -599,7 +662,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_triangle-inequality.html",
   "type": "Section",
-  "number": "15.3",
+  "number": "16.3",
   "title": "The Triangle Inequality Theorem",
   "body": " The Triangle Inequality Theorem   Coming soon...   "
 },
@@ -608,7 +671,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_perimeter-area.html",
   "type": "Section",
-  "number": "15.4",
+  "number": "16.4",
   "title": "Perimeter and Area",
   "body": " Perimeter and Area   Coming soon...   "
 },
@@ -617,7 +680,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_pythagorean.html",
   "type": "Section",
-  "number": "15.5",
+  "number": "16.5",
   "title": "The Pythagorean Theorem",
   "body": " The Pythagorean Theorem   Coming soon...   "
 },
@@ -626,7 +689,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_sa-vol.html",
   "type": "Section",
-  "number": "15.6",
+  "number": "16.6",
   "title": "Surface Area and Volume",
   "body": " Surface Area and Volume   Coming soon...   "
 },
@@ -635,7 +698,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_units.html",
   "type": "Section",
-  "number": "15.7",
+  "number": "16.7",
   "title": "Unit Conversions",
   "body": " Unit Conversions   Coming soon...   "
 },
