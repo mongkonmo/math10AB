@@ -31,7 +31,7 @@ var ptx_lunr_docs = [
   "id": "C_sets_operations",
   "level": "1",
   "url": "C_sets_operations.html",
-  "type": "Chapter",
+  "type": "Section",
   "number": "1.2",
   "title": "Set Operations",
   "body": " Set Operations   Coming soon...   "
@@ -41,7 +41,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_intro.html",
   "type": "Section",
-  "number": "3.1",
+  "number": "2.1",
   "title": "Introduction to Numeration Systems",
   "body": " Introduction to Numeration Systems   Coming soon...   "
 },
@@ -50,7 +50,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_hindu-arabic.html",
   "type": "Section",
-  "number": "3.2",
+  "number": "2.2",
   "title": "The Hindu-Arabic Numeration System",
   "body": " The Hindu-Arabic Numeration System   Coming soon...   "
 },
@@ -59,7 +59,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_base-ten.html",
   "type": "Section",
-  "number": "3.3",
+  "number": "2.3",
   "title": "The Base Ten Place Value System",
   "body": " The Base Ten Place Value System   Coming soon...   "
 },
@@ -68,7 +68,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_egyptian.html",
   "type": "Section",
-  "number": "3.4",
+  "number": "2.4",
   "title": "The Egyptian Numeration System",
   "body": " The Egyptian Numeration System   Coming soon...   "
 },
@@ -77,7 +77,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_roman.html",
   "type": "Section",
-  "number": "3.5",
+  "number": "2.5",
   "title": "The Roman Numeration System",
   "body": " The Roman Numeration System   Coming soon...   "
 },
@@ -86,7 +86,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_babylonian.html",
   "type": "Section",
-  "number": "3.6",
+  "number": "2.6",
   "title": "The Babylonian Numeration System",
   "body": " The Babylonian Numeration System   Coming soon...   "
 },
@@ -95,7 +95,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_num-sys_mayan.html",
   "type": "Section",
-  "number": "3.7",
+  "number": "2.7",
   "title": "The Mayan Numeration System",
   "body": " The Mayan Numeration System   Coming soon...   "
 },
@@ -104,7 +104,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "C_whole-num_intro.html",
   "type": "Section",
-  "number": "4.1",
+  "number": "3.1",
   "title": "Introduction to Whole Number Operations",
   "body": " Introduction to Whole Number Operations   Coming soon...   "
 },
@@ -113,7 +113,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "C_whole-num_add-subtract-types.html",
   "type": "Section",
-  "number": "4.2",
+  "number": "3.2",
   "title": "Addition and Subtraction Problem Types",
   "body": " Addition and Subtraction Problem Types   Coming soon...   "
 },
@@ -122,7 +122,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "C_whole-num_add-subtract-strategies.html",
   "type": "Section",
-  "number": "4.3",
+  "number": "3.3",
   "title": "Addition and Subtraction Models and Strategies",
   "body": " Addition and Subtraction Models and Strategies   Coming soon...   "
 },
@@ -131,7 +131,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "C_whole-num_mult-div-types.html",
   "type": "Section",
-  "number": "4.4",
+  "number": "3.4",
   "title": "Multiplication and Division Problem Types",
   "body": " Multiplication and Division Problem Types   Coming soon...   "
 },
@@ -140,7 +140,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "C_whole-num_mult-div-strategies.html",
   "type": "Section",
-  "number": "4.5",
+  "number": "3.5",
   "title": "Multiplication and Division Models and Strategies",
   "body": " Multiplication and Division Models and Strategies   Coming soon...   "
 },
@@ -149,7 +149,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_diff-bases_intro.html",
   "type": "Section",
-  "number": "5.1",
+  "number": "4.1",
   "title": "Introduction to Other Number-Base Systems",
   "body": " Introduction to Other Number-Base Systems   Coming soon...   "
 },
@@ -158,7 +158,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_diff-bases_dots-model.html",
   "type": "Section",
-  "number": "5.2",
+  "number": "4.2",
   "title": "The Exploding Dots Model",
   "body": " The Exploding Dots Model   Coming soon...   "
 },
@@ -167,7 +167,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_diff-bases_add.html",
   "type": "Section",
-  "number": "5.3",
+  "number": "4.3",
   "title": "Addition in Other Number-Base Systems",
   "body": " Addition in Other Number-Base Systems   Coming soon...   "
 },
@@ -176,7 +176,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_diff-bases_mult.html",
   "type": "Section",
-  "number": "5.4",
+  "number": "4.4",
   "title": "Multiplication in Other Number-Base Systems",
   "body": " Multiplication in Other Number-Base Systems   Coming soon...   "
 },
@@ -185,7 +185,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_diff-bases_subtract.html",
   "type": "Section",
-  "number": "5.5",
+  "number": "4.5",
   "title": "Subtraction in Other Number-Base Systems",
   "body": " Subtraction in Other Number-Base Systems   Coming soon...   "
 },
@@ -194,7 +194,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_diff-bases_div.html",
   "type": "Section",
-  "number": "5.6",
+  "number": "4.6",
   "title": "Division in Other Number-Base Systems",
   "body": " Division in Other Number-Base Systems   Coming soon...   "
 },
@@ -203,7 +203,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_intro.html",
   "type": "Section",
-  "number": "6.1",
+  "number": "5.1",
   "title": "Introduction to Counting",
   "body": " Introduction to Counting   It may seem silly at first to have an entire chapter dedicated to the topic of counting at this stage of your mathematical development. After all, how hard could it be?    Let's consider a few \"counting problems\" to get a better sense of what may actually be involved in this seemingly simple task of counting.   How many squares are in the figure below?   An arrangement of squares of various sizes.       We can enumerate the individual squares as shown below and see that there are five squares.   Enumerating the five squares in Figure         How many dots are in the figure below?   An arrangement of dots.       subitize  While we could also approach this question by enumerating the individual dots, another approach uses a concept called subitizing . This particular arrangement of dots is common and familiar to anyone who has played games that involve rolling a die. So we recognize this particular arrangement of dots and associate it with prior knowledge that there are five dots.   Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?  Since an outfit consists of a pants and a shirt, we need to count the number of ways we can pair each pants with each shirt. This gives us possible outfits.    As we can see from these solutions, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:   The Addition Principle of Counting  The Multiplication Principle of Counting  The Rearrangement Principle of Counting  The Labelling Principle of Counting     "
 },
@@ -212,7 +212,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_intro.html#inv-counting",
   "type": "Investigation",
-  "number": "6.1.1",
+  "number": "5.1.1",
   "title": "",
   "body": " Let's consider a few \"counting problems\" to get a better sense of what may actually be involved in this seemingly simple task of counting.   How many squares are in the figure below?   An arrangement of squares of various sizes.       We can enumerate the individual squares as shown below and see that there are five squares.   Enumerating the five squares in Figure         How many dots are in the figure below?   An arrangement of dots.       subitize  While we could also approach this question by enumerating the individual dots, another approach uses a concept called subitizing . This particular arrangement of dots is common and familiar to anyone who has played games that involve rolling a die. So we recognize this particular arrangement of dots and associate it with prior knowledge that there are five dots.   Tommy has 4 pants and 6 shirts. How many different outfits can he make from these?  Since an outfit consists of a pants and a shirt, we need to count the number of ways we can pair each pants with each shirt. This gives us possible outfits.    As we can see from these solutions, there are various counting strategies that can be applied depending on the situation. This chapter will introduce four fundamental strategies for counting:   The Addition Principle of Counting  The Multiplication Principle of Counting  The Rearrangement Principle of Counting  The Labelling Principle of Counting    "
 },
@@ -221,7 +221,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_add-multiply.html",
   "type": "Section",
-  "number": "6.2",
+  "number": "5.2",
   "title": "The Addition and Multiplication Principles of Counting",
   "body": " The Addition and Multiplication Principles of Counting    Understand when and how to use the Addition Principle of Counting  Understand when and how to use the Multiplication Principle of Counting      Suppose that a restaurant menu has 6 appetizers and 10 entrées. How many options do you have if  you only order one dish, either an appetizer or an entrée?  you are hungry and will order both an appetizer and an entrée?      "
 },
@@ -230,7 +230,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_add-multiply.html#objectives-1",
   "type": "Objectives",
-  "number": "6.2",
+  "number": "5.2",
   "title": "",
   "body": "  Understand when and how to use the Addition Principle of Counting  Understand when and how to use the Multiplication Principle of Counting   "
 },
@@ -239,7 +239,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_add-multiply.html#exp-add-multiply",
   "type": "Exploration",
-  "number": "6.2.1",
+  "number": "5.2.1",
   "title": "",
   "body": "  Suppose that a restaurant menu has 6 appetizers and 10 entrées. How many options do you have if  you only order one dish, either an appetizer or an entrée?  you are hungry and will order both an appetizer and an entrée?     "
 },
@@ -248,7 +248,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_rearrangement.html",
   "type": "Section",
-  "number": "6.3",
+  "number": "5.3",
   "title": "The Rearrangement Principle of Counting",
   "body": " The Rearrangement Principle of Counting  Below is a list of basic skills that will be needed in this section.    Simplifying fractions  Working with factorials      Understand when and how to use the Rearrangement Principle of Counting    "
 },
@@ -257,7 +257,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_rearrangement.html#outcomes-1",
   "type": "Prerequisites",
-  "number": "6.3",
+  "number": "5.3",
   "title": "",
   "body": "  Simplifying fractions  Working with factorials   "
 },
@@ -266,7 +266,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_rearrangement.html#objectives-2",
   "type": "Objectives",
-  "number": "6.3",
+  "number": "5.3",
   "title": "",
   "body": "  Understand when and how to use the Rearrangement Principle of Counting   "
 },
@@ -275,7 +275,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_labeling.html",
   "type": "Section",
-  "number": "6.4",
+  "number": "5.4",
   "title": "The Labeling Principle of Counting",
   "body": " The Labeling Principle of Counting    Understand when and how to use the Labeling Principle of Counting    "
 },
@@ -284,7 +284,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_labeling.html#objectives-3",
   "type": "Objectives",
-  "number": "6.4",
+  "number": "5.4",
   "title": "",
   "body": "  Understand when and how to use the Labeling Principle of Counting   "
 },
@@ -293,7 +293,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_counting_combine-principles.html",
   "type": "Section",
-  "number": "6.5",
+  "number": "5.5",
   "title": "Combining Principles of Counting",
   "body": " Combining Principles of Counting    Solve counting problems that involve using multiple principles of counting    "
 },
@@ -302,7 +302,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_counting_combine-principles.html#objectives-4",
   "type": "Objectives",
-  "number": "6.5",
+  "number": "5.5",
   "title": "",
   "body": "  Solve counting problems that involve using multiple principles of counting   "
 },
@@ -311,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_probability_intro.html",
   "type": "Section",
-  "number": "7.1",
+  "number": "6.1",
   "title": "Introduction to Probability",
   "body": " Introduction to Probability   Coming soon...   "
 },
@@ -320,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_probability_multistage.html",
   "type": "Section",
-  "number": "7.2",
+  "number": "6.2",
   "title": "Multistage Experiments",
   "body": " Multistage Experiments   Coming soon...   "
 },
@@ -329,7 +329,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_probability_games.html",
   "type": "Section",
-  "number": "7.3",
+  "number": "6.3",
   "title": "Probability in Games",
   "body": " Probability in Games   Coming soon...   "
 },
@@ -338,7 +338,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_intro.html",
   "type": "Section",
-  "number": "8.1",
+  "number": "7.1",
   "title": "Introduction to Data and Statistics",
   "body": " Introduction to Data and Statistics   Coming soon...   "
 },
@@ -347,7 +347,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_collecting.html",
   "type": "Section",
-  "number": "8.2",
+  "number": "7.2",
   "title": "Collecting Data",
   "body": " Collecting Data   Coming soon...   "
 },
@@ -356,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_presenting.html",
   "type": "Section",
-  "number": "8.3",
+  "number": "7.3",
   "title": "Presenting Data",
   "body": " Presenting Data   Coming soon...   "
 },
@@ -365,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_data_summarizing.html",
   "type": "Section",
-  "number": "8.4",
+  "number": "7.4",
   "title": "Summarizing Data",
   "body": " Summarizing Data   Coming soon...   "
 },
@@ -374,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_geometry_-intro.html",
   "type": "Section",
-  "number": "9.1",
+  "number": "8.1",
   "title": "Introduction to Geometry",
   "body": " Introduction to Geometry   Coming soon...   "
 },
@@ -383,7 +383,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_geometry_-constructions.html",
   "type": "Section",
-  "number": "9.2",
+  "number": "8.2",
   "title": "Geometric Constructions",
   "body": " Geometric Constructions   Coming soon...   "
 },
@@ -392,7 +392,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_geometry_-angle-pair-relations.html",
   "type": "Section",
-  "number": "9.3",
+  "number": "8.3",
   "title": "Angle Pair Relationships",
   "body": " Angle Pair Relationships   Coming soon...   "
 },
@@ -401,7 +401,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_geometry_-transversals.html",
   "type": "Section",
-  "number": "9.4",
+  "number": "8.4",
   "title": "Parralel Lines and Transversals",
   "body": " Parralel Lines and Transversals   Coming soon...   "
 },
@@ -410,7 +410,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_geometry_-polygon-angles.html",
   "type": "Section",
-  "number": "9.5",
+  "number": "8.5",
   "title": "Angle Relationships in Polygons",
   "body": " Angle Relationships in Polygons   Coming soon...   "
 },
@@ -419,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_geometry_-triangles-quads.html",
   "type": "Section",
-  "number": "9.6",
+  "number": "8.6",
   "title": "Triangles and Quadrilaterals",
   "body": " Triangles and Quadrilaterals   Coming soon...   "
 },
@@ -428,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_intro.html",
   "type": "Section",
-  "number": "10.1",
+  "number": "9.1",
   "title": "Introduction to Geometric Transformations",
   "body": " Introduction to Geometric Transformations   Coming soon...   "
 },
@@ -437,7 +437,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_coord.html",
   "type": "Section",
-  "number": "10.2",
+  "number": "9.2",
   "title": "Coordinate Mapping Rules",
   "body": " Coordinate Mapping Rules   Coming soon...   "
 },
@@ -446,7 +446,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_dilations.html",
   "type": "Section",
-  "number": "10.3",
+  "number": "9.3",
   "title": "Dilations",
   "body": " Dilations   Coming soon...   "
 },
@@ -455,7 +455,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_congruence.html",
   "type": "Section",
-  "number": "10.4",
+  "number": "9.4",
   "title": "Congruence",
   "body": " Congruence   Coming soon...   "
 },
@@ -464,7 +464,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_similarity.html",
   "type": "Section",
-  "number": "10.5",
+  "number": "9.5",
   "title": "Similarity",
   "body": " Similarity   Coming soon...   "
 },
@@ -473,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_transformations_symmetry.html",
   "type": "Section",
-  "number": "10.6",
+  "number": "9.6",
   "title": "Symmetry",
   "body": " Symmetry   Coming soon...   "
 },
@@ -482,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_intro.html",
   "type": "Section",
-  "number": "11.1",
+  "number": "10.1",
   "title": "Introduction to 3-Dimensional Shapes",
   "body": " Introduction to 3-Dimensional Shapes   Coming soon...   "
 },
@@ -491,7 +491,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_platonic.html",
   "type": "Section",
-  "number": "11.2",
+  "number": "10.2",
   "title": "Platonic Solids",
   "body": " Platonic Solids   Coming soon...   "
 },
@@ -500,7 +500,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_prisms-pyramids.html",
   "type": "Section",
-  "number": "11.3",
+  "number": "10.3",
   "title": "Prisms and Pyramids",
   "body": " Prisms and Pyramids   Coming soon...   "
 },
@@ -509,7 +509,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_3d_nets.html",
   "type": "Section",
-  "number": "11.4",
+  "number": "10.4",
   "title": "Nets for 3-Dimensional Shapes",
   "body": " Nets for 3-Dimensional Shapes   Coming soon...   "
 },
@@ -518,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_intro.html",
   "type": "Section",
-  "number": "12.1",
+  "number": "11.1",
   "title": "Introduction to Measurements in Geometry",
   "body": " Introduction to Measurements in Geometry   Coming soon...   "
 },
@@ -527,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_dist-angles.html",
   "type": "Section",
-  "number": "12.2",
+  "number": "11.2",
   "title": "Distances and Angles",
   "body": " Distances and Angles   Coming soon...   "
 },
@@ -536,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_triangle-inequality.html",
   "type": "Section",
-  "number": "12.3",
+  "number": "11.3",
   "title": "The Triangle Inequality Theorem",
   "body": " The Triangle Inequality Theorem   Coming soon...   "
 },
@@ -545,7 +545,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_perimeter-area.html",
   "type": "Section",
-  "number": "12.4",
+  "number": "11.4",
   "title": "Perimeter and Area",
   "body": " Perimeter and Area   Coming soon...   "
 },
@@ -554,7 +554,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_pythagorean.html",
   "type": "Section",
-  "number": "12.5",
+  "number": "11.5",
   "title": "The Pythagorean Theorem",
   "body": " The Pythagorean Theorem   Coming soon...   "
 },
@@ -563,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_sa-vol.html",
   "type": "Section",
-  "number": "12.6",
+  "number": "11.6",
   "title": "Surface Area and Volume",
   "body": " Surface Area and Volume   Coming soon...   "
 },
@@ -572,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_measurement_units.html",
   "type": "Section",
-  "number": "12.7",
+  "number": "11.7",
   "title": "Unit Conversions",
   "body": " Unit Conversions   Coming soon...   "
 },
