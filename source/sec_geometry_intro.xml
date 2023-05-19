@@ -12,14 +12,15 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec_geometry_-intro">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec_geometry_intro">
     <title>Introduction to Geometry</title>
 
-    <introduction>
-        <p>
-            Coming soon...
-        </p>
-    </introduction>
+    <objectives>
+        <ol>
+            <li><p>Identify basic geometric objects (e.g., line segments, rays, lines, angles, etc.)</p></li>
+            <li><p>Use appropriate mathematical notation to name basic geometric objects.</p></li>
+        </ol>
+    </objectives>
 
 
 </section>

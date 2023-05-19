@@ -15,11 +15,12 @@
 <section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="sec_geometry_-polygon-angles">
     <title>Angle Relationships in Polygons</title>
 
-    <introduction>
-        <p>
-            Coming soon...
-        </p>
-    </introduction>
+    <objectives>
+        <ol>
+            <li><p>Use the Interior Angle Sum Theorem for polygons to determine information about missing angles in a polygon</p></li>
+            <li><p>Use the Exterior Angle Sum Theorem for polygons to determine information about missing angles in a polygon</p></li>
+        </ol>
+    </objectives>
 
 
 </section>
