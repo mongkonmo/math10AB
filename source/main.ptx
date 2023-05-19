@@ -24,6 +24,11 @@
     <xi:include href="./chap_num-sys.xml" />
     <xi:include href="./chap_whole-num.xml" />
     <xi:include href="./chap_diff-bases.xml" />
+    <xi:include href="./chap_num-structure.xml" />
+    <xi:include href="./chap_fdp.xml" />
+    <xi:include href="./chap_integers.xml" />
+    <xi:include href="./chap_exponents.xml" />
+    <xi:include href="./chap_patterns.xml" />
     <xi:include href="./chap_counting.xml" />
     <xi:include href="./chap_probability.xml" />
     <xi:include href="./chap_data.xml" />
