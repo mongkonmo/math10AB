@@ -12,7 +12,7 @@
 <!-- registered marks of their respective owners.                          -->
 <!-- **********************************************************************-->
 
-<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_sets_operations">
+<section xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="C_sets_operations">
     <title>Set Operations</title>
 
     <introduction>
@@ -21,4 +21,4 @@
         </p>
     </introduction>
 
-</chapter>
+</section>
