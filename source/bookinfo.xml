@@ -18,6 +18,7 @@
     </macros>
     <latex-image-preamble>
         \usepackage{tikz}
+        \definecolor{myg}{RGB}{56, 140, 70}
     </latex-image-preamble>
 
     <rename element="outcomes">Prerequisites</rename>
